@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="icon.gif" width="400" alt="wide-2" />
+   <img src="icon.gif" width="450" alt="wide-2" />
 </div>
 
 # 🪄 دانلودر یوتیوب ( نسخه ی ۲ )
